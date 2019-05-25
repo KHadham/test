@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+ RewriteEngine On
+ 
+ #Protected Pages
+ RewriteCond %{REQUEST_URI} ^/framework/
+ RewriteCond %{REQUEST_FILENAME} -d
+ RewriteRule . ErrorDocument/403.php [L]    
+ 
+ #Action Page
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteCond %{REQUEST_FILENAME} !-d
+ 
+ 
+ RewriteRule index/?$    						index.php [L]   
+ RewriteRule index/([^/.]+)/?$					index.php?do_act=$1  [L]	 
+ RewriteRule index/([^/.]+)/([^/.]+)?$			index.php?do_act=$1&id_parameter=$2  [L]	
+ 
+
+</IfModule>
