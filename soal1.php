@@ -11,22 +11,22 @@ function datadiri(){
             "university" => "-"
             ), 
         "skill"     => array(
-            array(
-                "name"  => "PHP",
-                "score" => "65"
-            ),
-            array(
-                "name"  => "HTML",
-                "score" => "40"
-            ),
-            array(
-                "name"  => "CSS",
-                "score" => "30"
-            ),
-            array(
-                "name"  => "JavaScript",
-                "score" => "35"
-            ),
+                            array(
+                                "name"  => "PHP",
+                                "score" => "65"
+                            ),
+                            array(
+                                "name"  => "HTML",
+                                "score" => "40"
+                            ),
+                            array(
+                                "name"  => "CSS",
+                                "score" => "30"
+                            ),
+                            array(
+                                "name"  => "JavaScript",
+                                "score" => "35"
+                            ),
         ),
     );
     return json_encode($identitas);
