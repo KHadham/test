@@ -10,23 +10,25 @@ petunjuk Untuk Soal 6
 -
 isifolder
 -
-error document
--
-lib
--
-(folder di atas berada di dalam .rar)
-model-generalmodel
+    -error document
+    -lib
 
+(folder di atas berada di dalam .rar)
+model
+
+      -generalmodel
       -master
       -skills
       
-view-footer
+view
 
+      -footer
       -header
       -tabel utama
-.htaccess
-Generalcontroler
-index.php
+      
+      .htaccess
+      Generalcontroler
+      index.php
       
 
 
