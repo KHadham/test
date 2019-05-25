@@ -1,5 +1,8 @@
 <?php
 function carivokal($string){
-    return preg_match_all('/[aeiou]/i',$string,$matches);
+	
+	return preg_match_all('/[aeiou]/',$string);
+	
 }
-echo carivokal('aaaaa');
+
+echo carivokal('kokoro no tomo');
