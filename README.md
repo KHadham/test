@@ -14,6 +14,8 @@ isifolder
     -lib
 
 (folder di atas berada di dalam .rar)
+
+
 model
 
       -generalmodel
