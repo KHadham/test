@@ -8,14 +8,20 @@ pada REST API ,JSON digunakan sebagai format untuk bertukar data client dan serv
 
 petunjuk Untuk Soal 6
 -
+isifolder
+-
 error document
+-
 lib
+-
 (folder di atas berada di dalam .rar)
 model-generalmodel
+
       -master
       -skills
       
 view-footer
+
       -header
       -tabel utama
 .htaccess
