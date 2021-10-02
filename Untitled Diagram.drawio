@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T12:03:22.675Z" agent="5.0 (Windows)" etag="9qmU-YOVgBWT69Y310nt" version="15.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-02T12:04:15.008Z" agent="5.0 (Windows)" etag="PSmhrTClk4kA37nSbiWu" version="15.4.1" type="github" pages="2">
   <diagram id="-m9qqsBfXarH8WXp_uyf" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d6SBVQXbLfGid5248U36-11" value="tampilkan hasil konversi Reamur" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=0;" vertex="1" parent="MMxIEz4GNXGrVT193HYA-1">
-          <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d6SBVQXbLfGid5248U36-13" value="selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" vertex="1" parent="MMxIEz4GNXGrVT193HYA-1">
           <mxGeometry x="360" y="350" width="100" height="60" as="geometry" />
